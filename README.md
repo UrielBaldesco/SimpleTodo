@@ -28,7 +28,7 @@ Simple Todo list app for CodePath
 		
 		Here's a walkthrough of implemented user stories:
 		
-		<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+		<img src='https://imgur.com/a/apeho2A' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 		
 		GIF created with [LiceCap](http://www.cockos.com/licecap/).
 		
